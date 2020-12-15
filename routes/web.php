@@ -23,6 +23,7 @@ Route::get('/mi_primer_ruta', function (){
 });
 
 Route::get('prueba', [PruebaController::class, 'prueba']);
-
+Route::get('clientes', [PruebaController::class, 'clientes']);
 //Route::get('/prueba', 'PruebaController@prueba');
 //Route::get('user/{id}', [UserController::class, 'show']);
+

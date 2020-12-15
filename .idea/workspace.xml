@@ -19,7 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec0a39cf-d3f5-4fe5-8a9f-6ecbd727df04" name="Default Changelist" comment="" />
+    <list default="true" id="ec0a39cf-d3f5-4fe5-8a9f-6ecbd727df04" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/PruebaController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/PruebaController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +42,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/laravelCurso" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -159,6 +164,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -177,6 +183,17 @@
       <updated>1604108256222</updated>
       <workItem from="1604108257282" duration="3624000" />
       <workItem from="1604113481754" duration="182000" />
+      <workItem from="1604419793978" duration="3861000" />
+      <workItem from="1605022873855" duration="28000" />
+      <workItem from="1605022911336" duration="85000" />
+      <workItem from="1605023012785" duration="114000" />
+      <workItem from="1605023132615" duration="1348000" />
+      <workItem from="1605108775090" duration="1048000" />
+      <workItem from="1605482473050" duration="491000" />
+      <workItem from="1605628296539" duration="445000" />
+      <workItem from="1605886937721" duration="491000" />
+      <workItem from="1606145627685" duration="541000" />
+      <workItem from="1606175870857" duration="53000" />
     </task>
     <servers />
   </component>
@@ -193,6 +210,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1458" y="344" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1604110259773">
@@ -203,5 +221,13 @@
       <screen x="0" y="23" width="1920" height="1005" />
     </state>
     <state x="1513" y="505" key="NewPhpFileDialog/0.23.1920.1005@0.23.1920.1005" timestamp="1604109702577" />
+    <state x="469" y="184" key="SettingsEditor" timestamp="1605023231002">
+      <screen x="0" y="23" width="1920" height="1005" />
+    </state>
+    <state x="469" y="184" key="SettingsEditor/0.23.1920.1005@0.23.1920.1005" timestamp="1605023231002" />
+    <state x="668" y="153" width="584" height="783" key="find.popup" timestamp="1606175888946">
+      <screen x="0" y="23" width="1920" height="1004" />
+    </state>
+    <state x="668" y="153" width="584" height="783" key="find.popup/0.23.1920.1004@0.23.1920.1004" timestamp="1606175888946" />
   </component>
 </project>
